@@ -34,7 +34,9 @@ A GitHub Repository (Henceforth referred to as a "github repo" or just "repo" fo
 
 ## Storage of Credentials and Sensitive Information:
 
-(Add content explaining how credentials and sensitive information are stored and handled)
+Credentials and sensitive information should not be accessible to other users and thus will not be stored on GitHub. Sensitive information might have to be encrypted to be further protected.*
+
+***This is still to be decided**
 
 ## .gitignore Usage:
 
