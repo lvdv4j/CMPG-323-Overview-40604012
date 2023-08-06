@@ -102,4 +102,8 @@ appsettings.Development.json
 
 # Secret and sensitive information
 secrets.json
+```
 
+## My Burndown Chart
+
+![Burndown_Chart](https://github.com/lvdv4j/CMPG-323-Overview-40604012/assets/104925498/dba5c18f-d5ea-417e-8882-6898ff4cb24c)
