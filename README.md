@@ -26,7 +26,7 @@ A GitHub Repository (Henceforth referred to as a "github repo" or just "repo" fo
 
 ## Project and Repository Integration:
 
-(Add content explaining how the project and repository are integrated)
+![CMPG 323 Repo Diagram drawio](https://github.com/lvdv4j/CMPG-323-Overview-40604012/assets/104925498/58a4d21a-d171-4d1e-86dd-c9ab7ff14520)
 
 ## Branching Strategy:
 
