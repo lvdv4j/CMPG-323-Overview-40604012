@@ -107,3 +107,5 @@ secrets.json
 ## My Burndown Chart
 
 ![Burndown_Chart](https://github.com/lvdv4j/CMPG-323-Overview-40604012/assets/104925498/dba5c18f-d5ea-417e-8882-6898ff4cb24c)
+
+*Please note that 'sprint 0" and "sprint 9" are not actual sprints but are included for visualization purposes. Where "sprint 0" specifies the amount of effort remaining at the beginning of the semester (which according to the study guide is 160 hours) and "sprint 9" is the amount of effort remaining at the end of the semester which should be 0. The actual sprints run from 1-8.
