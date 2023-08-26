@@ -50,16 +50,7 @@ My Branching stratergy can be demonstated as below:
 
 ## Storage of Credentials and Sensitive Information:
 
-Credentials and sensitive information should not be accessible to other users and thus will not be stored on GitHub. Sensitive information might have to be encrypted to be further protected.*
-
-According to Project 3 - we will be using an Azure App Service to host our web application, this means that credentials and sensitive information can be handled in the following ways:
-
-1. Configuration with Azure App Configuration: Azure App Configuration allows for the storage of configuartion settings, including sensitive information like connection strings and API keys, in a centralized and secure manner. Thus I can make use of this to store the connection string for me hosted database mentioned in the appsettings.json file.
-2. Environment Variables on Azure App Service: This allows for the configuartion of environment variables for the application, thus instead of hardcoding sensitive information in the appsettings.json file, I could possibly set environment variables on the Azure App Service that will be read by the application at runtime.
-3. Azure Key Vault Integration: This can be integrated with the Azure App Service to securely store and manage secrets, keys, and certificates and the application can retrieve them securely at runtime.
-4. User Secrets: This is a feature in ASP.NET Core to store sensitive information locally on the development machine. User secrets are not commited to version control and thus are kept out of my GitHub repos during development.
-
-***This is still to be decided**
+To prevent storing sensitive information within my project code, and thus being committed to GitHub, I made use of Azure Key Vault. This is a service offered by Azure to manage and securely store secrets, keys, and certificates allowing the application to retrieve them securely at runtime. After doing a lot of research I found that this was the most optimal method for me to use to avoid compromising the sensitive information (username and password) within the connection string. Thus the connection string is being stored as a secret within the Azure Key Vault and the program retrieves the connection string when needed to connect to the database.
 
 ## .gitignore Usage:
 
