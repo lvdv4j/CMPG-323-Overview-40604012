@@ -302,30 +302,5 @@ AppPackages/
 
 ## References
 ### References used for project 2
+[References.xlsx](https://github.com/lvdv4j/CMPG-323-Overview-40604012/files/12481513/References.xlsx)
 
-- Codewrinkles (2023) Stop putting your ASp.Net core secrets at risk - use Azure Key Vault! Available at: https://www.youtube.com/watch?v=I8p8j5MuMAo.
-- Publishing to Azure from VS2019 failed due to not seeing AddSwaggerGen. - Microsoft Q&A (no date). Available at: https://learn.microsoft.com/en-us/answers/questions/731287/publishing-to-azure-from-vs2019-failed-due-to-not.
-- Be sure that the Startup.cs for your application is calling AddSwaggerGen from within ConfigureServices in order to generate swagger file (no date). Available at: https://stackoverflow.com/questions/74064821/be-sure-that-the-startup-cs-for-your-application-is-calling-addswaggergen-from-w.
-- change solution file to a different folder (no date). Available at: https://stackoverflow.com/questions/3377917/change-solution-file-to-a-different-folder.
-- Zuckerthoben (2023) Get started with Swashbuckle and ASP.NET Core. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-6.0&tabs=visual-studio.
-- Dotnet (no date) Failed to generate swagger.json with Swashbuckle · Issue #20330 · dotnet/AspNetCore.Docs. Available at: https://github.com/dotnet/AspNetCore.Docs/issues/20330.
-- Getting error when publishing webAPI to Azure (no date). Available at: https://stackoverflow.com/questions/65295741/getting-error-when-publishing-webapi-to-azure.
-- services.AddSwaggerGen() giving error (no date). Available at: https://stackoverflow.com/questions/43707733/services-addswaggergen-giving-error.
-- Codewrinkles (2023a) How To Keep SECRET Strings REALLY SECRET in ASP.NET Core? Available at: https://www.youtube.com/watch?v=5TxnLU-SXVg.
-- Rolyon (2023) Assign Azure roles using the Azure portal - Azure RBAC. Available at: https://learn.microsoft.com/en-za/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_KeyVault.
-- Access policies not available (no date). Available at: https://stackoverflow.com/questions/76325987/access-policies-not-available#:~:text=If%20you%20want%20to%20use,Portal%20and%20make%20the%20switch.
-- Startup.cs class is missing in .NET 6 (no date). Available at: https://stackoverflow.com/questions/70952271/startup-cs-class-is-missing-in-net-6.
-- Zuckerthoben (2023b) Get started with Swashbuckle and ASP.NET Core. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-7.0&tabs=visual-studio.
-- Profile, V. (2022) ASP.NET Core–Generate your swagger.json at build time. Available at: https://bartwullems.blogspot.com/2022/09/aspnet-coregenerate-your-swaggerjson-at.html.
-- Azure publish: Failed to update API in Azure (no date). Available at: https://stackoverflow.com/questions/69090118/azure-publish-failed-to-update-api-in-azure/70080593#70080593.
-- ASP.NET Core 6 - how to deal with the missing Startup.cs file - Mobiletonster’s Blog (no date). Available at: https://mobiletonster.com/blog/code/aspnet-core-6-how-to-deal-with-the-missing-startupcs-file.
-- Azure KeyVault: Azure.Identity.CredentialUnavailableException: DefaultAzureCredential failed to retrieve a token from the included credentials (no date). Available at: https://stackoverflow.com/questions/62817337/azure-keyvault-azure-identity-credentialunavailableexception-defaultazurecrede.
-- DefaultAzureCredential failed to retrieve a token (no date). Available at: https://techcommunity.microsoft.com/t5/iis-support-blog/defaultazurecredential-failed-to-retrieve-a-token/ba-p/3038734.
-- Bach, P. (2021) Finding Azure App Service FTP credentials. Available at: https://piotrbach.com/azure-app-service-ftp-credentials/#:~:text=Find%20App%20service.,will%20find%20username%2Fpassword%20inputs.
-- Git - remove all history prior to a specific commit (no date). Available at: https://stackoverflow.com/questions/73351673/git-remove-all-history-prior-to-a-specific-commit.
-- Gitignore not working (no date). Available at: https://stackoverflow.com/questions/25436312/gitignore-not-working.
-- Bricelam (2023) Reverse Engineering - EF Core. Available at: https://learn.microsoft.com/en-za/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli.
-- Get ConnectionString from appsettings.json instead of being hardcoded in .NET Core 2.0 App (no date). Available at: https://stackoverflow.com/questions/45796776/get-connectionstring-from-appsettings-json-instead-of-being-hardcoded-in-net-co.
-- Garzon, C.R. (2022) “HTTP Request Methods – Get vs Put vs Post Explained with Code Examples,” freeCodeCamp.org [Preprint]. Available at: https://www.freecodecamp.org/news/http-request-methods-explained/.
-- Entity Framework 6 (no date). Available at: https://www.entityframeworktutorial.net/entityframework6/introduction.aspx.
-- Study Mash (2020) Why to use DTO (Data Transfer Objects). Available at: https://www.youtube.com/watch?v=BxWS2E90WHw.
