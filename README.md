@@ -23,7 +23,7 @@ A GitHub Repository (Henceforth referred to as a "github repo" or just "repo" fo
 4. CMPG-323-Project-4-40604012 [repository](https://github.com/lvdv4j/CMPG-323-Project-4-40604012)
 5. CMPG-323-Project-5-40604012 [repository](https://github.com/lvdv4j/CMPG-323-Project-5-40604012)
 
-***Note that the repos for projects 3 - 5 are currently empty**
+***Note that the repos for projects 4 - 5 are currently empty**
 
 ## Project and Repository Integration:
 
@@ -304,3 +304,5 @@ AppPackages/
 ### References used for project 2
 [References.xlsx](https://github.com/lvdv4j/CMPG-323-Overview-40604012/files/12481513/References.xlsx)
 
+### References used for project 3
+[Project3References.xlsx](https://github.com/lvdv4j/CMPG-323-Overview-40604012/files/12679676/Project3References.xlsx)
