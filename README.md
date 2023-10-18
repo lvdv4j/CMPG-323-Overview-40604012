@@ -312,3 +312,6 @@ AppPackages/
 
 ### References used for project 3
 [Project3References.xlsx](https://github.com/lvdv4j/CMPG-323-Overview-40604012/files/12679676/Project3References.xlsx)
+
+### References used for project 4
+[Project_4_references.docx](https://github.com/lvdv4j/CMPG-323-Overview-40604012/files/13035034/Project_4_references.docx)
