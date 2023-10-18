@@ -23,7 +23,7 @@ A GitHub Repository (Henceforth referred to as a "github repo" or just "repo" fo
 4. CMPG-323-Project-4-40604012 [repository](https://github.com/lvdv4j/CMPG-323-Project-4-40604012)
 5. CMPG-323-Project-5-40604012 [repository](https://github.com/lvdv4j/CMPG-323-Project-5-40604012)
 
-***Note that the repos for projects 4 - 5 are currently empty**
+***Note that the repos for project 5 is currently empty**
 
 ## Project and Repository Integration:
 
