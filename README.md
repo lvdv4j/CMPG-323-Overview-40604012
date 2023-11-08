@@ -304,6 +304,11 @@ AppPackages/
 
 ![Burndown_Chart2](https://github.com/lvdv4j/CMPG-323-Overview-40604012/assets/104925498/b00f799f-ad60-4713-b5a2-a091f1d79704)
 
+### Second Updated Burndown Chart
+
+![image](https://github.com/lvdv4j/CMPG-323-Overview-40604012/assets/104925498/52eb3a30-8964-4734-8ced-13bb7229d473)
+
+
 *Please note that 'sprint 0" and "sprint 9" are not actual sprints but are included for visualization purposes. Where "sprint 0" specifies the amount of effort remaining at the beginning of the semester (which according to the study guide is 160 hours) and "sprint 9" is the amount of effort remaining at the end of the semester which should be 0. The actual sprints run from 1-8.
 
 ## References
